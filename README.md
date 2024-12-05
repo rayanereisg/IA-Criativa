@@ -1,5 +1,6 @@
 # IA-Criativa
 IA Criativa - Transformando Ideias em Realidade
+
 📒 Descrição
 Este projeto explora o potencial das IAs generativas para criar conteúdo visual, textual e interativo. Desenvolvi uma narrativa fictícia acompanhada de ilustrações geradas por IA, mostrando como tecnologias generativas podem ser usadas para storytelling, marketing e portfólio criativo.
 
